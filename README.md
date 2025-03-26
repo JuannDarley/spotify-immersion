@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://img.icons8.com/?size=512&id=55494&format=png" align="center" width="30%">
+    <img src="https://cdn.simpleicons.org/spotify/1ED760" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">SPOTIFY-IMMERSION.GIT</h1></p>
 <p align="center">
